@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.lumix",
+  "appName": "lumix",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
